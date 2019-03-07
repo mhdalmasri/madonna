@@ -1,0 +1,18 @@
+body {
+  font-family: 'Laila', serif;
+  background-color: white;
+  color: black;
+}
+
+input {
+  font-family: 'Laila', serif;
+  border-radius: 10px;
+  text-align: center
+}
+
+h1 {
+  text-align: center;
+}
+.filter {
+  margin: 30px;
+}
