@@ -10,6 +10,7 @@ a App to show 50 songs from i-tunes list
 * HTML
 * CSS 
 * JS
+* Bootstrab 
 * iTunes API
 
 ## Authors
